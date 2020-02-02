@@ -1,4 +1,5 @@
 牛客网部分编程题参考代码(所有代码在牛客网运行通过)
+终于成功使用git 开心！！
 ====================
 
 ### 试题列表
@@ -21,3 +22,6 @@
 + [tengxun-5582994](https://github.com/ReyzalX/nowcoder/tree/master/tengxun-5582994) : [腾讯2017秋招笔试编程题](https://www.nowcoder.com/test/5582994/summary)
 + [nowcoder-9439037](https://github.com/ReyzalX/nowcoder/tree/master/nowcoder-9439037) : [2018年校招全国统一模拟笔试(第一场)编程题集合](https://www.nowcoder.com/test/9439037/summary)
 + [wangyi-9763997](https://github.com/ReyzalX/nowcoder/tree/master/wangyi-9763997) : [网易2019实习生招聘编程题集合](https://www.nowcoder.com/test/9763997/summary)
+
+
+终于成功使用git 开心！！
